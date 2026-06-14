@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✈️ Emirates Aviation Intelligence Platform — v2 FIXED
 ### U.S. Airline Performance & Delay Analytics
 
@@ -111,3 +112,6 @@ openpyxl>=3.1.0
 
 *Emirates Aviation Intelligence Platform v2 — Single-file Production Build*  
 *Data: U.S. Bureau of Transportation Statistics, 2015*
+=======
+# Emirates-Aviation-Intelligence-Platform
+>>>>>>> 9d18fc4da1d9d00e37f41a005506af2e5add7a1d
